@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Physivoice</string>
+    <string name="confirm">confirm</string>
+    <string name="try_again">try again</string>
+</resources>
